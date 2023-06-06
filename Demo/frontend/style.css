@@ -1,0 +1,28 @@
+.search {
+  width: 600px;
+  height: auto;
+  margin: 0 auto;
+  text-align: center;
+  border: 1px solid black;
+}
+table {
+    width: 600px;
+	border-collapse: collapse;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+table td {
+	padding: 15px;
+}
+.tableHeaderTD {
+	background-color: #dddfe1;
+	color: #000000;
+	font-weight: bold;
+	font-size: 13px;
+	border: 1px solid #54585d;
+}
+.tableBodyTD {
+	border: 1px solid #dddfe1;
+}
+.tableBodyTR {
+	background-color: #f9fafb;
+}
